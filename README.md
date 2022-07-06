@@ -1,2 +1,2 @@
-# Clone-de-Tinder
-## Un Landing Page avec Bootstrap 5 
+# Tinder-Concept-style
+## A Landing Page With Bootstrap 5
